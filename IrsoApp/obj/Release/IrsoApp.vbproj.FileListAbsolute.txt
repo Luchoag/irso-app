@@ -1,0 +1,10 @@
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\bin\Release\IrsoApp.exe.config
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\bin\Release\IrsoApp.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\bin\Release\IrsoApp.pdb
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\bin\Release\IrsoApp.xml
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Release\IrsoApp.Form1.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Release\IrsoApp.Resources.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Release\IrsoApp.vbproj.GenerateResource.Cache
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Release\IrsoApp.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Release\IrsoApp.xml
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Release\IrsoApp.pdb

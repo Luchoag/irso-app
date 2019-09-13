@@ -1,0 +1,20 @@
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\bin\Debug\IrsoApp.exe.config
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\bin\Debug\IrsoApp.exe
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\bin\Debug\IrsoApp.pdb
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\bin\Debug\IrsoApp.xml
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\obj\Debug\IrsoApp.Form1.resources
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\obj\Debug\IrsoApp.Resources.resources
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\obj\Debug\IrsoApp.vbproj.GenerateResource.Cache
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\obj\Debug\IrsoApp.exe
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\obj\Debug\IrsoApp.xml
+C:\Users\Casa\AppData\Local\Temporary Projects\IrsoApp\obj\Debug\IrsoApp.pdb
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\bin\Debug\IrsoApp.exe.config
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Debug\IrsoApp.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Debug\IrsoApp.xml
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Debug\IrsoApp.pdb
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\bin\Debug\IrsoApp.exe
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\bin\Debug\IrsoApp.pdb
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\bin\Debug\IrsoApp.xml
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Debug\IrsoApp.Form1.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Debug\IrsoApp.Resources.resources
+C:\Users\Casa\Documents\Visual Studio 2012\Projects\IrsoApp\IrsoApp\obj\Debug\IrsoApp.vbproj.GenerateResource.Cache
